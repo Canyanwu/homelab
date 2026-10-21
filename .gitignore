@@ -1,0 +1,7 @@
+*.key
+*.pem
+*.ovpn
+*.kdbx
+.env
+secrets*
+*.log
